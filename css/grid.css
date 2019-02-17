@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+}
+.container{
+	
+	margin:0 auto;
+}
+
+.container-fluid{
+	width:100%;
+}
+.row{
+
+	display: flex;
+	
+}
+.clear{
+	clear:both;
+}
+.height{
+	height:100px;
+}
+[class^="col-"]{
+	box-sizing: border-box;
+	float:left;
+}
+img{
+	width:77%;
+}
+
